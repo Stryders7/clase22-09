@@ -1,0 +1,7 @@
+{
+  "name": "consumo api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
